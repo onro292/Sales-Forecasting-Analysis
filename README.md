@@ -1,5 +1,5 @@
 # Sales-Forecasting-Analysis
-Analyzed store sales data using Python, forecasted sales in R, built sales dashboard in tableau
+Analyzed store sales data using Python, forecasted sales in R, built sales dashboard in Tableau
 
 # Project Work Flow
 The project is divided up into 3 parts:
